@@ -1,0 +1,23 @@
+data/client.csv
+data/client.csv
+data/client_train.csv
+data/client_validation.csv
+data/invoice.csv
+data/train.csv
+data/validation.csv
+experiments
+
+
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+simulation-front-(angular)/dist
+simulation-front-(angular)/tmp
+simulation-front-(angular)/out-tsc
+# Only exists if Bazel was run
+simulation-front-(angular)/bazel-out
+
+# dependencies
+simulation-front-(angular)/node_modules
+
